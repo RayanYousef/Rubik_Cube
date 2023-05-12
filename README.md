@@ -1,5 +1,5 @@
 # Rubik Cube (Unity)
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/RayanYousef/Rubik_Cube/blob/main/Rubik%20Cube.png))
+https://github.com/RayanYousef/Rubik_Cube/blob/main/Rubik%20Cube.png?raw=true
 This game was developed using Unity and features a randomly shuffled Rubik's Cube when shuffle button pressed. The player must use the buttons provided, including undo and redo buttons to solve the cube. There is also a solve button that automatically solves the cube.
 
 **Features:**
